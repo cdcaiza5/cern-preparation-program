@@ -1,0 +1,14 @@
+1. Nombre del dataset:
+/MET/Run2016H-UL2016_MiniAODv2_NanoAODv9-v1/NANOAOD
+
+2. Tipo de información:
+La enegía transversa perdida (la suma vectorial negativa de las partículas visibles en la colisión)
+
+3. ¿Qué te llamó la atención?
+Al momento de la colisión el momento transverso debería ser 0, si es diferente de 0 puede indicar la presencia de partículas invisibles
+
+4. Posible utilidad:
+Detección de materia oscura
+
+5. Dificultad encontrada:
+Principalmente el hecho de que los datos sean puramente acerca de física de partículas, que no es un tema del que tenga mucho conocimiento

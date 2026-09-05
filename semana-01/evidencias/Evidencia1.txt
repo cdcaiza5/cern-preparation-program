@@ -1,0 +1,11 @@
+- ¿Cómo está organizado el CMS Open Data Workshop 2024?
+Mediante canales de mattermost, en los que se encuentran los pre-ejercicios, un canal contiene los pre-ejercicios de Docker y otro todos los demás. También se cuenta con un formulario en el que se entregan las actividades.
+
+- ¿Qué herramientas o tecnologías identificaste?
+Mattermost, la herramienta de discusión; Docker, Git, Python, Unix, C++, CERN Open Data Portal, las herramientas sobre las que tratan los pre-ejercicios; Google Forms, para la entega de las actividades
+
+- ¿Qué parte del entorno o documentación te resultó nueva?
+Mattermost, una plataforma de discusión específica para este tipo de orientación no es común
+
+- ¿Tuviste alguna dificultad al navegar por los recursos?
+No, todo parecía funcionar correctamente
