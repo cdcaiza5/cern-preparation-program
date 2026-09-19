@@ -1,0 +1,2 @@
+# ¿Qué ventaja encuentras en utilizar la terminal para trabajar con archivos y proyectos?
+Es más simple y rápido para la navegación, y se pueden utilizar herramientas directamente sólo con escribir su nombre y argumentos, a diferencia de una interfaz gráfica, que debe buscarse y navegar por menús.

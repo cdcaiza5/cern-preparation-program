@@ -1,0 +1,8 @@
+# URL del repositorio en Github
+https://github.com/cdcaiza5/cern-preparation-program
+# Explicación de lo aprendido
+El uso de git como una herramienta para versionar los cambios, facilitando la recuperación de una versión anterior, y el uso de remotes con GitHub para almacenar los repositorios en la nube y permitir su acceso en cualquier lugar.
+# Comando de Git más útil/interesante
+bisect, usado para entrontrar el commit que introdujo un bug mediante búsqueda binaria
+# Dificultad
+Todo lo relacionado a merges, en casos complejos la operación de merge puede volverse tediosa

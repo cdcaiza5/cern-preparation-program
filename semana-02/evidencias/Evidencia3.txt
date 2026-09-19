@@ -1,0 +1,4 @@
+Actividad en https://github.com/cdcaiza5/cern-preparation-program/tree/main/semana-02/ejercicios/analisis-con-python, usando python para cargar, explorar, analizar y visualizar el conjunto de datos de esperanza de vida de la organización mundial de la salud
+
+Se obtuvo que la esperanza de vida ha subido todos los años con excepción de 2020-2021 debido al covid-19
+
